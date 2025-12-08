@@ -590,7 +590,7 @@ const ringTexts = [
   'Galaxy of love for Aninn',//untuk deskripsi planet layer 1
   "The Most beautiful Galaxy",//untuk deskripsi planet layer 2
   "♡I Love You Aninn♡",//untuk deskripsi planet layer 3
-  "Just For You",//untuk deskripsi planet layer 4
+  "For You Aninnnn",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
